@@ -1,0 +1,97 @@
+Title: Criminal Offenses
+Category: Penal-Code
+Description: Defines crimes and punishments under Egyptian law.
+Examples / Use Cases:
+
+Theft, assault, and property crimes.
+
+Legal age of criminal responsibility.
+Key Articles / Rules:
+
+Article 302: Theft punishable by imprisonment or fines.
+
+Article 17: Criminal responsibility starts at age 15.
+
+Title: Cybercrime Law
+Category: Penal-Code
+Description: Covers illegal online activities.
+Examples / Use Cases:
+
+Hacking, phishing, identity theft.
+
+Cyber fraud and online harassment.
+Key Articles / Rules:
+
+Article 21: Unauthorized system access is a crime.
+
+Article 25: Identity theft punishable by imprisonment.
+
+Title: Theft and Property Crimes
+Category: Penal-Code
+Description: Includes burglary, robbery, embezzlement, and property damage.
+Examples / Use Cases:
+
+Stealing office equipment.
+
+Arson or vandalism.
+Key Articles / Rules:
+
+Article 310: Burglary carries imprisonment.
+
+Article 315: Compensation required for property damage.
+
+Title: Assault and Personal Injury
+Category: Penal-Code
+Description: Covers physical harm, battery, and abuse.
+Examples / Use Cases:
+
+Domestic violence.
+
+Assault in public areas.
+Key Articles / Rules:
+
+Article 320: Assault penalties depend on severity.
+
+Article 325: Repeat offenders face increased punishment.
+
+Title: Drug-Related Offenses
+Category: Penal-Code
+Description: Possession, trafficking, and abuse of controlled substances.
+Examples / Use Cases:
+
+Illegal drug distribution.
+
+Use of narcotics without prescription.
+Key Articles / Rules:
+
+Article 335: Possession of controlled substances carries imprisonment.
+
+Article 340: Trafficking carries harsher penalties.
+
+Title: White-Collar Crimes
+Category: Penal-Code
+Description: Fraud, bribery, embezzlement, and corruption.
+Examples / Use Cases:
+
+Corporate fraud or tax evasion.
+
+Bribing public officials.
+Key Articles / Rules:
+
+Article 350: Fraud penalties include fines and imprisonment.
+
+Article 355: Bribery is punishable regardless of amount.
+
+Title: Juvenile Justice
+Category: Penal-Code
+Description: Special rules for offenders under 18.
+Examples / Use Cases:
+
+Rehabilitation programs for juvenile offenders.
+
+Court procedures for minors.
+Key Articles / Rules:
+
+Article 360: Juveniles subject to separate trials.
+
+Article 365: Emphasis on rehabilitation over punishment.

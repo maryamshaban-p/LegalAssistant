@@ -1,0 +1,100 @@
+Title: Company Formation
+Category: Company-Law
+Description: Rules for registering and operating companies in Egypt.
+Examples / Use Cases:
+
+Registering a limited liability company.
+
+Setting up a joint-stock company.
+Key Articles / Rules:
+
+Article 5: Minimum capital depends on company type.
+
+Article 10: Registration with Commercial Registry is required.
+Notes / Exceptions:
+
+Small enterprises may follow simplified procedures.
+
+Title: Corporate Governance
+Category: Company-Law
+Description: Management rules, board responsibilities, and internal policies.
+Examples / Use Cases:
+
+Directors’ fiduciary duties.
+
+Shareholder meetings and voting rights.
+Key Articles / Rules:
+
+Article 20: Board must act in company’s best interest.
+
+Article 25: Shareholder approval required for major decisions.
+
+Title: Shareholder Rights
+Category: Company-Law
+Description: Legal protection of shareholders’ investments and voting rights.
+Examples / Use Cases:
+
+Right to dividends.
+
+Right to access company information.
+Key Articles / Rules:
+
+Article 30: Shareholders can inspect company records.
+
+Article 35: Voting rights proportionate to shares owned.
+
+Title: Mergers and Acquisitions
+Category: Company-Law
+Description: Legal rules for combining or acquiring companies.
+Examples / Use Cases:
+
+Merging two limited liability companies.
+
+Acquiring shares in a joint-stock company.
+Key Articles / Rules:
+
+Article 40: Requires board and shareholder approval.
+
+Article 42: Notification to regulatory authorities is mandatory.
+
+Title: Corporate Finance Regulations
+Category: Company-Law
+Description: Rules for raising capital, issuing shares, and managing debt.
+Examples / Use Cases:
+
+Issuing new shares to investors.
+
+Borrowing from banks under corporate law.
+Key Articles / Rules:
+
+Article 50: Companies must maintain proper accounting records.
+
+Article 55: Dividends cannot exceed net profits.
+
+Title: Compliance and Reporting
+Category: Company-Law
+Description: Annual reporting, audits, and legal compliance obligations.
+Examples / Use Cases:
+
+Filing annual financial statements.
+
+Submitting reports to regulatory authorities.
+Key Articles / Rules:
+
+Article 60: Audited accounts must be submitted annually.
+
+Article 65: Non-compliance may result in fines or dissolution.
+
+Title: Liquidation Procedures
+Category: Company-Law
+Description: Rules for winding up and dissolving companies.
+Examples / Use Cases:
+
+Voluntary liquidation.
+
+Court-ordered dissolution due to insolvency.
+Key Articles / Rules:
+
+Article 70: Liquidator must notify creditors.
+
+Article 75: Assets distributed according to law.

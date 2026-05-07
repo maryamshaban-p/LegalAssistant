@@ -1,0 +1,88 @@
+
+Title: Income Tax Law
+Category: Tax-Law
+Description: Governs taxation on individuals and corporations. Covers income calculation, deductions, filing, and penalties.
+Examples / Use Cases:
+- Calculating personal income tax for salaried employees.
+- Corporate tax rates for small and large enterprises.
+- Filing deadlines and penalties for late submission.
+Key Articles / Rules:
+- Article 1: All Egyptian-source income is taxable.
+- Article 3: Tax rates depend on annual income brackets.
+- Article 5: Corporations must file tax returns annually.
+- Article 8: Tax deductions available for education, medical expenses, and charitable contributions.
+Notes / Exceptions:
+- Charitable organizations may be partially or fully exempt.
+- Tax incentives exist for investments in specific economic zones.
+
+Title: Value Added Tax (VAT)
+Category: Tax-Law
+Description: VAT applies to goods and services. Defines registration, collection, exemptions, and penalties.
+Examples / Use Cases:
+- VAT registration for small business owners.
+- Reporting VAT for e-commerce sales.
+Key Articles / Rules:
+- Article 10: Standard VAT rate is 14%.
+- Article 12: Exemptions for basic food items, healthcare, and education.
+- Article 15: Tax invoices must be issued for all taxable transactions.
+Notes / Exceptions:
+- Exported goods are zero-rated.
+- Non-resident suppliers providing services to Egypt must register for VAT.
+
+Title: Corporate Tax Incentives
+Category: Tax-Law
+Description: Reduced tax rates or exemptions for specific businesses.
+Examples / Use Cases:
+- Special rates for tech startups.
+- Tax-free zones for industrial projects.
+Key Articles / Rules:
+- Article 20: Incentives apply for investments in renewable energy, manufacturing, and export-oriented projects.
+Notes / Exceptions:
+- Incentives require official registration and approval.
+
+Title: Property Tax
+Category: Tax-Law
+Description: Taxation on real estate and land ownership.
+Examples / Use Cases:
+- Annual property tax for residential and commercial properties.
+- Tax relief for agricultural land.
+Key Articles / Rules:
+- Article 25: Tax calculated on assessed property value.
+- Article 28: Municipal tax obligations.
+Notes / Exceptions:
+- Properties used for charitable purposes may be exempt.
+
+Title: Customs Duties and Excise
+Category: Tax-Law
+Description: Taxes on imported goods and specific products.
+Examples / Use Cases:
+- Importing machinery and paying customs duties.
+- Excise taxes on tobacco and alcohol.
+Key Articles / Rules:
+- Article 35: Customs duties calculated based on CIF value.
+- Article 40: Excise taxes applied to luxury goods.
+Notes / Exceptions:
+- Exemptions for free trade agreements and bonded zones.
+
+Title: Tax Filing and Penalties
+Category: Tax-Law
+Description: Procedures for tax submission and consequences for non-compliance.
+Examples / Use Cases:
+- Filing annual returns electronically.
+- Penalties for late payment or under-reporting.
+Key Articles / Rules:
+- Article 50: Returns must be filed within specified deadlines.
+- Article 52: Late filing incurs fines and interest.
+Notes / Exceptions:
+- Extensions may be granted under special circumstances.
+
+Title: Tax Treaties and International Taxation
+Category: Tax-Law
+Description: Agreements to avoid double taxation and regulate cross-border taxes.
+Examples / Use Cases:
+- Tax obligations for foreign businesses operating in Egypt.
+- Treaties with other countries to prevent double taxation.
+Key Articles / Rules:
+- Article 60: Tax treaty provisions override domestic laws if agreed internationally.
+Notes / Exceptions:
+- Domestic anti-avoidance rules still apply.

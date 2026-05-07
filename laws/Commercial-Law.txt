@@ -1,0 +1,103 @@
+Title: Commercial Contracts
+Category: Commercial-Law
+Description: Governs contracts in trade, business transactions, and commercial agreements.
+Examples / Use Cases:
+
+Drafting contracts with suppliers.
+
+Resolving breach of contract disputes.
+Key Articles / Rules:
+
+Article 50: Contracts must respect public policy and consent.
+
+Article 55: Breach of contract allows claims for damages.
+Notes / Exceptions:
+
+International trade contracts may follow separate rules.
+
+Title: Bankruptcy Law
+Category: Commercial-Law
+Description: Regulations for insolvency, liquidation, and creditor protection.
+Examples / Use Cases:
+
+Filing for bankruptcy.
+
+Handling creditor claims in liquidation.
+Key Articles / Rules:
+
+Article 70: Court supervises bankruptcy proceedings.
+
+Article 75: Priority of creditor claims determined by law.
+Notes / Exceptions:
+
+Small businesses may follow simplified procedures.
+
+Title: Trade Practices
+Category: Commercial-Law
+Description: Regulates fair trade, competition, and commercial fraud.
+Examples / Use Cases:
+
+Prohibition of monopolies.
+
+Anti-fraud measures in advertising.
+Key Articles / Rules:
+
+Article 80: Unfair competition is prohibited.
+
+Article 85: Misleading commercial practices carry penalties.
+
+Title: Business Licensing
+Category: Commercial-Law
+Description: Rules for obtaining licenses for trade and commerce.
+Examples / Use Cases:
+
+Licensing requirements for retail stores.
+
+Renewal procedures for business permits.
+Key Articles / Rules:
+
+Article 90: Licenses must be obtained before operation.
+
+Article 95: Non-compliance may result in fines or closure.
+
+Title: International Trade Regulations
+Category: Commercial-Law
+Description: Governs import/export, customs, and foreign trade contracts.
+Examples / Use Cases:
+
+Exporting goods under trade agreements.
+
+Resolving disputes in cross-border contracts.
+Key Articles / Rules:
+
+Article 100: Trade agreements take precedence over domestic law where applicable.
+
+Article 105: Tariffs and duties must be paid according to law.
+
+Title: E-Commerce Law
+Category: Commercial-Law
+Description: Regulates online transactions, electronic contracts, and consumer protection.
+Examples / Use Cases:
+
+Online sales platforms.
+
+Digital payment security requirements.
+Key Articles / Rules:
+
+Article 110: Electronic contracts are legally valid.
+
+Article 115: E-commerce operators must provide transparent terms.
+
+Title: Agency and Representation
+Category: Commercial-Law
+Description: Legal rules for commercial agents, representatives, and franchises.
+Examples / Use Cases:
+
+Appointing sales agents.
+
+Rights and obligations of franchise holders.
+Key Articles / Rules:
+
+Article 120: Agents act on behalf of principals.
+
+Article 125: Liability for unauthorized acts rests with agent.

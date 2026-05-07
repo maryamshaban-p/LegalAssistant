@@ -1,0 +1,77 @@
+
+Title: Copyright Law
+Category: IP-Law
+Description: Protects authors’ works including books, music, software, and digital content.
+Examples / Use Cases:
+- Copying software without permission.
+- Registering literary works or music compositions.
+Key Articles / Rules:
+- Article 7: Copyright lasts life + 50 years.
+- Article 15: Registration provides proof in disputes.
+Notes / Exceptions:
+- Fair use allowed for education or private use.
+
+Title: Trademark Law
+Category: IP-Law
+Description: Protects logos, brands, and commercial identifiers.
+Examples / Use Cases:
+- Registering a company logo.
+- Disputing unauthorized use of a trademark.
+Key Articles / Rules:
+- Article 5: Trademarks must be distinctive.
+- Article 12: Exclusive rights granted for registered trademarks.
+- Article 18: Protection lasts 10 years, renewable.
+Notes / Exceptions:
+- Generic or descriptive terms cannot be trademarked.
+
+Title: Patent Law
+Category: IP-Law
+Description: Protects inventions and technical innovations.
+Examples / Use Cases:
+- Filing patent applications for inventions.
+- Enforcement against infringement.
+Key Articles / Rules:
+- Article 30: Patent protection lasts 20 years.
+- Article 35: Must be new, inventive, and industrially applicable.
+Notes / Exceptions:
+- Natural discoveries and methods of treatment are excluded.
+
+Title: Industrial Design Law
+Category: IP-Law
+Description: Protects aesthetic designs of products.
+Examples / Use Cases:
+- Protecting the visual design of furniture or electronics.
+- Enforcement against copying of designs.
+Key Articles / Rules:
+- Article 40: Protection lasts 15 years.
+- Article 42: Registration required for enforcement.
+
+Title: Trade Secrets Law
+Category: IP-Law
+Description: Protects confidential business information.
+Examples / Use Cases:
+- Unauthorized disclosure of formulas or business strategies.
+Key Articles / Rules:
+- Article 50: Misappropriation is punishable by civil or criminal penalties.
+Notes / Exceptions:
+- Information lawfully obtained or publicly known is not protected.
+
+Title: Domain Name and Digital IP
+Category: IP-Law
+Description: Protects domain names and online brand presence.
+Examples / Use Cases:
+- Cybersquatting disputes.
+- Online trademark enforcement.
+Key Articles / Rules:
+- Article 60: Rights extend to domain names identical to trademarks.
+
+Title: Licensing and Technology Transfer
+Category: IP-Law
+Description: Rules for licensing IP and transferring technology.
+Examples / Use Cases:
+- Software licensing agreements.
+- Technology transfer agreements between companies.
+Key Articles / Rules:
+- Article 70: Licensing agreements must respect IP rights.
+Notes / Exceptions:
+- Unauthorized sublicensing constitutes infringement.

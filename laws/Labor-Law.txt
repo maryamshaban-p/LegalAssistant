@@ -1,0 +1,97 @@
+Title: Employment Contracts
+Category: Labor-Law
+Description: Legal requirements for contracts between employers and employees.
+Examples / Use Cases:
+
+Written vs. verbal agreements.
+
+Contract duration and probation periods.
+Key Articles / Rules:
+
+Article 12: Contracts must be written.
+
+Article 20: Termination requires notice or compensation.
+
+Title: Workers’ Rights
+Category: Labor-Law
+Description: Rights regarding wages, benefits, and working conditions.
+Examples / Use Cases:
+
+Minimum wage compliance.
+
+Paid leave entitlements.
+Key Articles / Rules:
+
+Article 25: Annual leave and sick leave guaranteed.
+
+Article 30: Safe working environment required.
+
+Title: Health and Safety Regulations
+Category: Labor-Law
+Description: Occupational safety and standards.
+Examples / Use Cases:
+
+Workplace safety inspections.
+
+Reporting hazards.
+Key Articles / Rules:
+
+Article 35: Employers must provide protective equipment.
+
+Article 40: Non-compliance penalties apply.
+
+Title: Minimum Wage and Benefits
+Category: Labor-Law
+Description: Defines minimum wages, bonuses, and benefits.
+Examples / Use Cases:
+
+Calculating overtime.
+
+Employee pension contributions.
+Key Articles / Rules:
+
+Article 45: Minimum wage set by government decree.
+
+Article 50: Benefits include health insurance.
+
+Title: Collective Bargaining
+Category: Labor-Law
+Description: Legal process for negotiations between employers and unions.
+Examples / Use Cases:
+
+Union negotiation for better conditions.
+
+Resolving collective disputes.
+Key Articles / Rules:
+
+Article 55: Employers must recognize registered unions.
+
+Article 60: Collective agreements are legally binding.
+
+Title: Termination and Severance
+Category: Labor-Law
+Description: Rules on dismissal, redundancy, and compensation.
+Examples / Use Cases:
+
+Employee layoffs.
+
+Severance pay calculation.
+Key Articles / Rules:
+
+Article 65: Termination notice required.
+
+Article 70: Severance calculated based on tenure.
+
+Title: Labor Dispute Resolution
+Category: Labor-Law
+Description: Mechanisms for resolving conflicts between employer and employee.
+Examples / Use Cases:
+
+Filing a complaint at labor office.
+
+Arbitration and mediation options.
+Key Articles / Rules:
+
+Article 75: Labor disputes referred to Labor Office first.
+
+Article 80: Court intervention if unresolved.

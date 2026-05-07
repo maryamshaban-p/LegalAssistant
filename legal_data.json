@@ -1,0 +1,685 @@
+[
+  {
+    "title": "Civil Obligations",
+    "category": "Civil-Egyptian-Law",
+    "description": "Covers duties arising from contracts, torts, and law.",
+    "examples_use_cases": [
+      "Liability for damages.",
+      "Contractual obligations enforcement."
+    ],
+    "key_articles_rules": [
+      "Article 147: Obligation arises from contract or law.",
+      "Article 148: Damages must compensate actual loss."
+    ],
+    "notes_exceptions": [
+      "Force majeure can exempt liability."
+    ]
+  },
+  {
+    "title": "Property Law",
+    "category": "Civil-Egyptian-Law",
+    "description": "Governs ownership, transfer, and use of property.",
+    "examples_use_cases": [
+      "Buying or leasing property.",
+      "Resolving property disputes."
+    ],
+    "key_articles_rules": [
+      "Article 90: Ownership is protected by law.",
+      "Article 92: Transfer requires registration."
+    ],
+    "notes_exceptions": [
+      "Public property has special regulations."
+    ]
+  },
+  {
+    "title": "Contract Law",
+    "category": "Civil-Egyptian-Law",
+    "description": "Covers formation, validity, and execution of contracts.",
+    "examples_use_cases": [
+      "Breach of contract remedies.",
+      "Signing contracts with foreign parties."
+    ],
+    "key_articles_rules": [
+      "Article 120: Contracts require consent of both parties.",
+      "Article 125: Contracts violating law are void."
+    ],
+    "notes_exceptions": []
+  },
+  {
+    "title": "Tort Law",
+    "category": "Civil-Egyptian-Law",
+    "description": "Covers civil wrongs causing harm to others.",
+    "examples_use_cases": [
+      "Compensation for injury caused by negligence.",
+      "Liability for property damage."
+    ],
+    "key_articles_rules": [
+      "Article 180: Tortfeasor liable for damage.",
+      "Article 185: Joint liability applies in shared fault."
+    ],
+    "notes_exceptions": []
+  },
+  {
+    "title": "Personal Rights and Obligations",
+    "category": "Civil-Egyptian-Law",
+    "description": "Covers rights of individuals in society.",
+    "examples_use_cases": [
+      "Protection of honor and reputation.",
+      "Right to privacy and personal freedom."
+    ],
+    "key_articles_rules": [
+      "Article 200: Personal rights are inviolable.",
+      "Article 205: Legal remedies available for infringement."
+    ],
+    "notes_exceptions": []
+  },
+  {
+    "title": "Succession Law",
+    "category": "Civil-Egyptian-Law",
+    "description": "Rules for inheritance and property transfer after death.",
+    "examples_use_cases": [
+      "Allocation of estate among heirs.",
+      "Execution of wills."
+    ],
+    "key_articles_rules": [
+      "Article 220: Legal heirs entitled to fixed shares.",
+      "Article 225: Testamentary freedom limited by law."
+    ],
+    "notes_exceptions": []
+  },
+  {
+    "title": "Civil Procedures",
+    "category": "Civil-Egyptian-Law",
+    "description": "Rules for filing and pursuing civil lawsuits.",
+    "examples_use_cases": [
+      "Filing property claims.",
+      "Dispute resolution in court."
+    ],
+    "key_articles_rules": [
+      "Article 250: Plaintiffs must follow prescribed procedures.",
+      "Article 255: Evidence must comply with legal standards."
+    ],
+    "notes_exceptions": []
+  },
+  {
+    "title": "Freedom of Expression",
+    "category": "Civil-Rights",
+    "description": "Guarantees the right to speak, write, and publish freely, subject to legal limits.",
+    "examples_use_cases": [
+      "Publishing political criticism.",
+      "Online blogs and social media posts."
+    ],
+    "key_articles_rules": [
+      "Article 19: Freedom of expression is protected.",
+      "Article 22: Limits exist for hate speech, incitement, and defamation."
+    ],
+    "notes_exceptions": [
+      "National security laws may restrict expression."
+    ]
+  },
+  {
+    "title": "Right to Equality",
+    "category": "Civil-Rights",
+    "description": "Prohibits discrimination based on race, religion, gender, disability, or social status.",
+    "examples_use_cases": [
+      "Employment hiring practices.",
+      "Access to education and public services."
+    ],
+    "key_articles_rules": [
+      "Article 3: Citizens are equal before the law.",
+      "Article 10: Discrimination in government services is prohibited."
+    ],
+    "notes_exceptions": [
+      "Positive discrimination policies for marginalized groups are allowed."
+    ]
+  },
+  {
+    "title": "Right to Privacy",
+    "category": "Civil-Rights",
+    "description": "Protects personal data, private life, and communications.",
+    "examples_use_cases": [
+      "Unauthorized surveillance.",
+      "Data collection by companies or government."
+    ],
+    "key_articles_rules": [
+      "Article 21: Collection and processing of personal data must be lawful.",
+      "Article 25: Violations carry civil and criminal penalties."
+    ],
+    "notes_exceptions": [
+      "Government may collect data for security purposes with court authorization."
+    ]
+  },
+  {
+    "title": "Freedom of Assembly",
+    "category": "Civil-Rights",
+    "description": "Right to peaceful protest, gathering, and association.",
+    "examples_use_cases": [
+      "Organizing public demonstrations.",
+      "Joining civil society organizations."
+    ],
+    "key_articles_rules": [
+      "Article 30: Peaceful assembly is permitted.",
+      "Article 32: Prior notification may be required."
+    ],
+    "notes_exceptions": [
+      "Public order, safety, and national security can impose limits."
+    ]
+  },
+  {
+    "title": "Right to Access Justice",
+    "category": "Civil-Rights",
+    "description": "Guarantees access to courts and legal remedies.",
+    "examples_use_cases": [
+      "Filing lawsuits without undue delay.",
+      "Legal aid for low-income individuals."
+    ],
+    "key_articles_rules": [
+      "Article 35: Legal assistance must be available to all.",
+      "Article 38: Courts must provide fair and timely hearings."
+    ],
+    "notes_exceptions": []
+  },
+  {
+    "title": "Anti-Discrimination Laws",
+    "category": "Civil-Rights",
+    "description": "Protects vulnerable groups against discrimination in all sectors.",
+    "examples_use_cases": [
+      "Discrimination based on disability in employment.",
+      "Gender equality in government services."
+    ],
+    "key_articles_rules": [
+      "Article 40: Discriminatory practices are punishable."
+    ],
+    "notes_exceptions": []
+  },
+  {
+    "title": "Protection of Vulnerable Groups",
+    "category": "Civil-Rights",
+    "description": "Special provisions for children, elderly, and persons with disabilities.",
+    "examples_use_cases": [
+      "Legal guardianship for minors.",
+      "Accessibility standards in public buildings."
+    ],
+    "key_articles_rules": [
+      "Article 45: Rights of vulnerable groups must be safeguarded."
+    ],
+    "notes_exceptions": []
+  },
+  {
+    "title": "Commercial Contracts",
+    "category": "Commercial-Law",
+    "description": "Governs contracts in trade, business transactions, and commercial agreements.",
+    "examples_use_cases": [
+      "Drafting contracts with suppliers.",
+      "Resolving breach of contract disputes."
+    ],
+    "key_articles_rules": [
+      "Article 50: Contracts must respect public policy and consent.",
+      "Article 55: Breach of contract allows claims for damages."
+    ],
+    "notes_exceptions": [
+      "International trade contracts may follow separate rules."
+    ]
+  },
+  {
+    "title": "Bankruptcy Law",
+    "category": "Commercial-Law",
+    "description": "Regulations for insolvency, liquidation, and creditor protection.",
+    "examples_use_cases": [
+      "Filing for bankruptcy.",
+      "Handling creditor claims in liquidation."
+    ],
+    "key_articles_rules": [
+      "Article 70: Court supervises bankruptcy proceedings.",
+      "Article 75: Priority of creditor claims determined by law."
+    ],
+    "notes_exceptions": [
+      "Small businesses may follow simplified procedures."
+    ]
+  },
+  {
+    "title": "Trade Practices",
+    "category": "Commercial-Law",
+    "description": "Regulates fair trade, competition, and commercial fraud.",
+    "examples_use_cases": [
+      "Prohibition of monopolies.",
+      "Anti-fraud measures in advertising."
+    ],
+    "key_articles_rules": [
+      "Article 80: Unfair competition is prohibited.",
+      "Article 85: Misleading commercial practices carry penalties."
+    ],
+    "notes_exceptions": []
+  },
+  {
+    "title": "Business Licensing",
+    "category": "Commercial-Law",
+    "description": "Rules for obtaining licenses for trade and commerce.",
+    "examples_use_cases": [
+      "Licensing requirements for retail stores.",
+      "Renewal procedures for business permits."
+    ],
+    "key_articles_rules": [
+      "Article 90: Licenses must be obtained before operation.",
+      "Article 95: Non-compliance may result in fines or closure."
+    ],
+    "notes_exceptions": []
+  },
+  {
+    "title": "International Trade Regulations",
+    "category": "Commercial-Law",
+    "description": "Governs import/export, customs, and foreign trade contracts.",
+    "examples_use_cases": [
+      "Exporting goods under trade agreements.",
+      "Resolving disputes in cross-border contracts."
+    ],
+    "key_articles_rules": [
+      "Article 100: Trade agreements take precedence over domestic law where applicable.",
+      "Article 105: Tariffs and duties must be paid according to law."
+    ],
+    "notes_exceptions": []
+  },
+  {
+    "title": "E-Commerce Law",
+    "category": "Commercial-Law",
+    "description": "Regulates online transactions, electronic contracts, and consumer protection.",
+    "examples_use_cases": [
+      "Online sales platforms.",
+      "Digital payment security requirements."
+    ],
+    "key_articles_rules": [
+      "Article 110: Electronic contracts are legally valid.",
+      "Article 115: E-commerce operators must provide transparent terms."
+    ],
+    "notes_exceptions": []
+  },
+  {
+    "title": "Agency and Representation",
+    "category": "Commercial-Law",
+    "description": "Legal rules for commercial agents, representatives, and franchises.",
+    "examples_use_cases": [
+      "Appointing sales agents.",
+      "Rights and obligations of franchise holders."
+    ],
+    "key_articles_rules": [
+      "Article 120: Agents act on behalf of principals.",
+      "Article 125: Liability for unauthorized acts rests with agent."
+    ],
+    "notes_exceptions": []
+  },
+  {
+    "title": "Company Formation",
+    "category": "Company-Law",
+    "description": "Rules for registering and operating companies in Egypt.",
+    "examples_use_cases": [
+      "Registering a limited liability company.",
+      "Setting up a joint-stock company."
+    ],
+    "key_articles_rules": [
+      "Article 5: Minimum capital depends on company type.",
+      "Article 10: Registration with Commercial Registry is required."
+    ],
+    "notes_exceptions": [
+      "Small enterprises may follow simplified procedures."
+    ]
+  },
+  {
+    "title": "Corporate Governance",
+    "category": "Company-Law",
+    "description": "Management rules, board responsibilities, and internal policies.",
+    "examples_use_cases": [
+      "Directors’ fiduciary duties.",
+      "Shareholder meetings and voting rights."
+    ],
+    "key_articles_rules": [
+      "Article 20: Board must act in company’s best interest.",
+      "Article 25: Shareholder approval required for major decisions."
+    ],
+    "notes_exceptions": []
+  },
+  {
+    "title": "Shareholder Rights",
+    "category": "Company-Law",
+    "description": "Legal protection of shareholders’ investments and voting rights.",
+    "examples_use_cases": [
+      "Right to dividends.",
+      "Right to access company information."
+    ],
+    "key_articles_rules": [
+      "Article 30: Shareholders can inspect company records.",
+      "Article 35: Voting rights proportionate to shares owned."
+    ],
+    "notes_exceptions": []
+  },
+  {
+    "title": "Mergers and Acquisitions",
+    "category": "Company-Law",
+    "description": "Legal rules for combining or acquiring companies.",
+    "examples_use_cases": [
+      "Merging two limited liability companies.",
+      "Acquiring shares in a joint-stock company."
+    ],
+    "key_articles_rules": [
+      "Article 40: Requires board and shareholder approval.",
+      "Article 42: Notification to regulatory authorities is mandatory."
+    ],
+    "notes_exceptions": []
+  },
+  {
+    "title": "Corporate Finance Regulations",
+    "category": "Company-Law",
+    "description": "Rules for raising capital, issuing shares, and managing debt.",
+    "examples_use_cases": [
+      "Issuing new shares to investors.",
+      "Borrowing from banks under corporate law."
+    ],
+    "key_articles_rules": [
+      "Article 50: Companies must maintain proper accounting records.",
+      "Article 55: Dividends cannot exceed net profits."
+    ],
+    "notes_exceptions": []
+  },
+  {
+    "title": "Compliance and Reporting",
+    "category": "Company-Law",
+    "description": "Annual reporting, audits, and legal compliance obligations.",
+    "examples_use_cases": [
+      "Filing annual financial statements.",
+      "Submitting reports to regulatory authorities."
+    ],
+    "key_articles_rules": [
+      "Article 60: Audited accounts must be submitted annually.",
+      "Article 65: Non-compliance may result in fines or dissolution."
+    ],
+    "notes_exceptions": []
+  },
+  {
+    "title": "Liquidation Procedures",
+    "category": "Company-Law",
+    "description": "Rules for winding up and dissolving companies.",
+    "examples_use_cases": [
+      "Voluntary liquidation.",
+      "Court-ordered dissolution due to insolvency."
+    ],
+    "key_articles_rules": [
+      "Article 70: Liquidator must notify creditors.",
+      "Article 75: Assets distributed according to law."
+    ],
+    "notes_exceptions": []
+  },
+  {
+    "title": "Marriage Law",
+    "category": "Family-Law",
+    "description": "Rules governing legal marriage, registration, consent, and minimum age.",
+    "examples_use_cases": [
+      "Legal age requirements.",
+      "Cross-religion marriage rules."
+    ],
+    "key_articles_rules": [
+      "Article 8: Minimum age: men 18, women 16 (court exceptions possible).",
+      "Article 15: Consent required from both parties."
+    ],
+    "notes_exceptions": [
+      "Religious courts may impose additional requirements."
+    ]
+  },
+  {
+    "title": "Divorce Law",
+    "category": "Family-Law",
+    "description": "Conditions, custody, alimony, and judicial procedures.",
+    "examples_use_cases": [
+      "Filing for divorce.",
+      "Custody and visitation rights."
+    ],
+    "key_articles_rules": [
+      "Article 30: Grounds include incompatibility, abuse, neglect.",
+      "Article 35: Custody prioritizes child welfare."
+    ],
+    "notes_exceptions": [
+      "Alimony depends on spouse’s income and living standard."
+    ]
+  },
+  {
+    "title": "Child Custody",
+    "category": "Family-Law",
+    "description": "Rules for guardianship and parental responsibility.",
+    "examples_use_cases": [
+      "Custody after divorce.",
+      "Legal guardianship for orphaned children."
+    ],
+    "key_articles_rules": [
+      "Article 40: Custody awarded based on best interest of child.",
+      "Article 42: Parents maintain right to visitation."
+    ],
+    "notes_exceptions": []
+  },
+  {
+    "title": "Inheritance Law",
+    "category": "Family-Law",
+    "description": "Distribution of estate after death according to law.",
+    "examples_use_cases": [
+      "Allocation of assets among heirs.",
+      "Disputes among family members."
+    ],
+    "key_articles_rules": [
+      "Article 50: Fixed shares for spouses, children, parents.",
+      "Article 55: Testamentary freedom limited by legal shares."
+    ],
+    "notes_exceptions": []
+  },
+  {
+    "title": "Adoption Law",
+    "category": "Family-Law",
+    "description": "Legal process for adopting minors.",
+    "examples_use_cases": [
+      "Adopting a child from a legal orphanage.",
+      "Rights and obligations of adoptive parents."
+    ],
+    "key_articles_rules": [
+      "Article 60: Adoption requires court approval.",
+      "Article 65: Adopted children have inheritance rights."
+    ],
+    "notes_exceptions": []
+  },
+  {
+    "title": "Domestic Violence Protection",
+    "category": "Family-Law",
+    "description": "Legal measures to protect family members from abuse.",
+    "examples_use_cases": [
+      "Filing protection orders.",
+      "Criminal penalties for abuse."
+    ],
+    "key_articles_rules": [
+      "Article 70: Courts can issue restraining orders.",
+      "Article 72: Abusers may face imprisonment."
+    ],
+    "notes_exceptions": []
+  },
+  {
+    "title": "Guardianship Law",
+    "category": "Family-Law",
+    "description": "Legal guardianship for minors and incapacitated adults.",
+    "examples_use_cases": [
+      "Guardianship for elderly family members.",
+      "Decision-making for minor’s medical care."
+    ],
+    "key_articles_rules": [
+      "Article 75: Guardian must act in the best interest of the ward."
+    ],
+    "notes_exceptions": []
+  },
+  {
+    "title": "Legal Terms and Definitions",
+    "category": "General-Legal",
+    "description": "Definitions of commonly used legal terms.",
+    "examples_use_cases": [
+      "Plaintiff, Defendant, Arbitration, Injunction."
+    ],
+    "key_articles_rules": [
+      "Provides reference to match queries to correct law domain."
+    ],
+    "notes_exceptions": []
+  },
+  {
+    "title": "Common Legal Abbreviations",
+    "category": "General-Legal",
+    "description": "Commonly used abbreviations in legal documents.",
+    "examples_use_cases": [
+      "LLC – Limited Liability Company.",
+      "IP – Intellectual Property."
+    ],
+    "key_articles_rules": [],
+    "notes_exceptions": []
+  },
+  {
+    "title": "Judicial and Court Terms",
+    "category": "General-Legal",
+    "description": "Terms related to courts, judges, and legal proceedings.",
+    "examples_use_cases": [
+      "Appellate court, magistrate, injunction."
+    ],
+    "key_articles_rules": [],
+    "notes_exceptions": []
+  },
+  {
+    "title": "Litigation Processes",
+    "category": "General-Legal",
+    "description": "Steps and procedures in civil and criminal lawsuits.",
+    "examples_use_cases": [
+      "Filing a complaint.",
+      "Trial proceedings and appeals."
+    ],
+    "key_articles_rules": [],
+    "notes_exceptions": []
+  },
+  {
+    "title": "Arbitration and Mediation",
+    "category": "General-Legal",
+    "description": "Alternative dispute resolution methods.",
+    "examples_use_cases": [
+      "Contractual disputes.",
+      "Commercial arbitration cases."
+    ],
+    "key_articles_rules": [],
+    "notes_exceptions": []
+  },
+  {
+    "title": "Legal Roles",
+    "category": "General-Legal",
+    "description": "Definitions of parties in legal cases.",
+    "examples_use_cases": [
+      "Plaintiff, Defendant, Counsel, Witness."
+    ],
+    "key_articles_rules": [],
+    "notes_exceptions": []
+  },
+  {
+    "title": "Legal References for RAG Matching",
+    "category": "General-Legal",
+    "description": "Keywords, topics, and articles for RAG-based retrieval.",
+    "examples_use_cases": [
+      "Matching queries like divorce procedure to Family-Law.",
+      "Corporate tax rate mapped to Tax-Law."
+    ],
+    "key_articles_rules": [],
+    "notes_exceptions": []
+  },
+  {
+    "title": "Employment Contracts",
+    "category": "Labor-Law",
+    "description": "Legal requirements for contracts between employers and employees.",
+    "examples_use_cases": [
+      "Written vs. verbal agreements.",
+      "Contract duration and probation periods."
+    ],
+    "key_articles_rules": [
+      "Article 12: Contracts must be written.",
+      "Article 20: Termination requires notice or compensation."
+    ],
+    "notes_exceptions": []
+  },
+  {
+    "title": "Workers’ Rights",
+    "category": "Labor-Law",
+    "description": "Rights regarding wages, benefits, and working conditions.",
+    "examples_use_cases": [
+      "Minimum wage compliance.",
+      "Paid leave entitlements."
+    ],
+    "key_articles_rules": [
+      "Article 25: Annual leave and sick leave guaranteed.",
+      "Article 30: Safe working environment required."
+    ],
+    "notes_exceptions": []
+  },
+  {
+    "title": "Health and Safety Regulations",
+    "category": "Labor-Law",
+    "description": "Occupational safety and standards.",
+    "examples_use_cases": [
+      "Workplace safety inspections.",
+      "Reporting hazards."
+    ],
+    "key_articles_rules": [
+      "Article 35: Employers must provide protective equipment.",
+      "Article 40: Non-compliance penalties apply."
+    ],
+    "notes_exceptions": []
+  },
+  {
+    "title": "Minimum Wage and Benefits",
+    "category": "Labor-Law",
+    "description": "Defines minimum wages, bonuses, and benefits.",
+    "examples_use_cases": [
+      "Calculating overtime.",
+      "Employee pension contributions."
+    ],
+    "key_articles_rules": [
+      "Article 45: Minimum wage set by government decree.",
+      "Article 50: Benefits include health insurance."
+    ],
+    "notes_exceptions": []
+  },
+  {
+    "title": "Collective Bargaining",
+    "category": "Labor-Law",
+    "description": "Legal process for negotiations between employers and unions.",
+    "examples_use_cases": [
+      "Union negotiation for better conditions.",
+      "Resolving collective disputes."
+    ],
+    "key_articles_rules": [
+      "Article 55: Employers must recognize registered unions.",
+      "Article 60: Collective agreements are legally binding."
+    ],
+    "notes_exceptions": []
+  },
+  {
+    "title": "Termination and Severance",
+    "category": "Labor-Law",
+    "description": "Rules on dismissal, redundancy, and compensation.",
+    "examples_use_cases": [
+      "Employee layoffs.",
+      "Severance pay calculation."
+    ],
+    "key_articles_rules": [
+      "Article 65: Termination notice required.",
+      "Article 70: Severance calculated based on tenure."
+    ],
+    "notes_exceptions": []
+  },
+  {
+    "title": "Labor Dispute Resolution",
+    "category": "Labor-Law",
+    "description": "Mechanisms for resolving conflicts between employer and employee.",
+    "examples_use_cases": [
+      "Filing a complaint at labor office.",
+      "Arbitration and mediation options."
+    ],
+    "key_articles_rules": [
+      "Article 75: Labor disputes referred to Labor Office first.",
+      "Article 80: Court intervention if unresolved."
+    ],
+    "notes_exceptions": []
+  }
+]

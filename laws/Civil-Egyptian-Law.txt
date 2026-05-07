@@ -1,0 +1,103 @@
+Title: Civil Obligations
+Category: Civil-Egyptian-Law
+Description: Covers duties arising from contracts, torts, and law.
+Examples / Use Cases:
+
+Liability for damages.
+
+Contractual obligations enforcement.
+Key Articles / Rules:
+
+Article 147: Obligation arises from contract or law.
+
+Article 148: Damages must compensate actual loss.
+Notes / Exceptions:
+
+Force majeure can exempt liability.
+
+Title: Property Law
+Category: Civil-Egyptian-Law
+Description: Governs ownership, transfer, and use of property.
+Examples / Use Cases:
+
+Buying or leasing property.
+
+Resolving property disputes.
+Key Articles / Rules:
+
+Article 90: Ownership is protected by law.
+
+Article 92: Transfer requires registration.
+Notes / Exceptions:
+
+Public property has special regulations.
+
+Title: Contract Law
+Category: Civil-Egyptian-Law
+Description: Covers formation, validity, and execution of contracts.
+Examples / Use Cases:
+
+Breach of contract remedies.
+
+Signing contracts with foreign parties.
+Key Articles / Rules:
+
+Article 120: Contracts require consent of both parties.
+
+Article 125: Contracts violating law are void.
+
+Title: Tort Law
+Category: Civil-Egyptian-Law
+Description: Covers civil wrongs causing harm to others.
+Examples / Use Cases:
+
+Compensation for injury caused by negligence.
+
+Liability for property damage.
+Key Articles / Rules:
+
+Article 180: Tortfeasor liable for damage.
+
+Article 185: Joint liability applies in shared fault.
+
+Title: Personal Rights and Obligations
+Category: Civil-Egyptian-Law
+Description: Covers rights of individuals in society.
+Examples / Use Cases:
+
+Protection of honor and reputation.
+
+Right to privacy and personal freedom.
+Key Articles / Rules:
+
+Article 200: Personal rights are inviolable.
+
+Article 205: Legal remedies available for infringement.
+
+Title: Succession Law
+Category: Civil-Egyptian-Law
+Description: Rules for inheritance and property transfer after death.
+Examples / Use Cases:
+
+Allocation of estate among heirs.
+
+Execution of wills.
+Key Articles / Rules:
+
+Article 220: Legal heirs entitled to fixed shares.
+
+Article 225: Testamentary freedom limited by law.
+
+Title: Civil Procedures
+Category: Civil-Egyptian-Law
+Description: Rules for filing and pursuing civil lawsuits.
+Examples / Use Cases:
+
+Filing property claims.
+
+Dispute resolution in court.
+Key Articles / Rules:
+
+Article 250: Plaintiffs must follow prescribed procedures.
+
+Article 255: Evidence must comply with legal standards.

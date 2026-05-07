@@ -1,0 +1,59 @@
+Title: Legal Terms and Definitions
+Category: General-Legal
+Description: Definitions of commonly used legal terms.
+Examples / Use Cases:
+
+Plaintiff, Defendant, Arbitration, Injunction.
+Key Articles / Rules:
+
+Provides reference to match queries to correct law domain.
+
+Title: Common Legal Abbreviations
+Category: General-Legal
+Description: Commonly used abbreviations in legal documents.
+Examples / Use Cases:
+
+“LLC” – Limited Liability Company.
+
+“IP” – Intellectual Property.
+
+Title: Judicial and Court Terms
+Category: General-Legal
+Description: Terms related to courts, judges, and legal proceedings.
+Examples / Use Cases:
+
+Appellate court, magistrate, injunction.
+
+Title: Litigation Processes
+Category: General-Legal
+Description: Steps and procedures in civil and criminal lawsuits.
+Examples / Use Cases:
+
+Filing a complaint.
+
+Trial proceedings and appeals.
+
+Title: Arbitration and Mediation
+Category: General-Legal
+Description: Alternative dispute resolution methods.
+Examples / Use Cases:
+
+Contractual disputes.
+
+Commercial arbitration cases.
+
+Title: Legal Roles
+Category: General-Legal
+Description: Definitions of parties in legal cases.
+Examples / Use Cases:
+
+Plaintiff, Defendant, Counsel, Witness.
+
+Title: Legal References for RAG Matching
+Category: General-Legal
+Description: Keywords, topics, and articles for RAG-based retrieval.
+Examples / Use Cases:
+
+Matching queries like “divorce procedure” to Family-Law.
+
+“Corporate tax rate” mapped to Tax-Law.

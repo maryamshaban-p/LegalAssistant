@@ -1,0 +1,105 @@
+Title: Freedom of Expression
+Category: Civil-Rights
+Description: Guarantees the right to speak, write, and publish freely, subject to legal limits.
+Examples / Use Cases:
+
+Publishing political criticism.
+
+Online blogs and social media posts.
+Key Articles / Rules:
+
+Article 19: Freedom of expression is protected.
+
+Article 22: Limits exist for hate speech, incitement, and defamation.
+Notes / Exceptions:
+
+National security laws may restrict expression.
+
+Title: Right to Equality
+Category: Civil-Rights
+Description: Prohibits discrimination based on race, religion, gender, disability, or social status.
+Examples / Use Cases:
+
+Employment hiring practices.
+
+Access to education and public services.
+Key Articles / Rules:
+
+Article 3: Citizens are equal before the law.
+
+Article 10: Discrimination in government services is prohibited.
+Notes / Exceptions:
+
+Positive discrimination policies for marginalized groups are allowed.
+
+Title: Right to Privacy
+Category: Civil-Rights
+Description: Protects personal data, private life, and communications.
+Examples / Use Cases:
+
+Unauthorized surveillance.
+
+Data collection by companies or government.
+Key Articles / Rules:
+
+Article 21: Collection and processing of personal data must be lawful.
+
+Article 25: Violations carry civil and criminal penalties.
+Notes / Exceptions:
+
+Government may collect data for security purposes with court authorization.
+
+Title: Freedom of Assembly
+Category: Civil-Rights
+Description: Right to peaceful protest, gathering, and association.
+Examples / Use Cases:
+
+Organizing public demonstrations.
+
+Joining civil society organizations.
+Key Articles / Rules:
+
+Article 30: Peaceful assembly is permitted.
+
+Article 32: Prior notification may be required.
+Notes / Exceptions:
+
+Public order, safety, and national security can impose limits.
+
+Title: Right to Access Justice
+Category: Civil-Rights
+Description: Guarantees access to courts and legal remedies.
+Examples / Use Cases:
+
+Filing lawsuits without undue delay.
+
+Legal aid for low-income individuals.
+Key Articles / Rules:
+
+Article 35: Legal assistance must be available to all.
+
+Article 38: Courts must provide fair and timely hearings.
+
+Title: Anti-Discrimination Laws
+Category: Civil-Rights
+Description: Protects vulnerable groups against discrimination in all sectors.
+Examples / Use Cases:
+
+Discrimination based on disability in employment.
+
+Gender equality in government services.
+Key Articles / Rules:
+
+Article 40: Discriminatory practices are punishable.
+
+Title: Protection of Vulnerable Groups
+Category: Civil-Rights
+Description: Special provisions for children, elderly, and persons with disabilities.
+Examples / Use Cases:
+
+Legal guardianship for minors.
+
+Accessibility standards in public buildings.
+Key Articles / Rules:
+
+Article 45: Rights of vulnerable groups must be safeguarded.

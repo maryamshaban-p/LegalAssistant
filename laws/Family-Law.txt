@@ -1,0 +1,101 @@
+Title: Marriage Law
+Category: Family-Law
+Description: Rules governing legal marriage, registration, consent, and minimum age.
+Examples / Use Cases:
+
+Legal age requirements.
+
+Cross-religion marriage rules.
+Key Articles / Rules:
+
+Article 8: Minimum age: men 18, women 16 (court exceptions possible).
+
+Article 15: Consent required from both parties.
+Notes / Exceptions:
+
+Religious courts may impose additional requirements.
+
+Title: Divorce Law
+Category: Family-Law
+Description: Conditions, custody, alimony, and judicial procedures.
+Examples / Use Cases:
+
+Filing for divorce.
+
+Custody and visitation rights.
+Key Articles / Rules:
+
+Article 30: Grounds include incompatibility, abuse, neglect.
+
+Article 35: Custody prioritizes child welfare.
+Notes / Exceptions:
+
+Alimony depends on spouse’s income and living standard.
+
+Title: Child Custody
+Category: Family-Law
+Description: Rules for guardianship and parental responsibility.
+Examples / Use Cases:
+
+Custody after divorce.
+
+Legal guardianship for orphaned children.
+Key Articles / Rules:
+
+Article 40: Custody awarded based on best interest of child.
+
+Article 42: Parents maintain right to visitation.
+
+Title: Inheritance Law
+Category: Family-Law
+Description: Distribution of estate after death according to law.
+Examples / Use Cases:
+
+Allocation of assets among heirs.
+
+Disputes among family members.
+Key Articles / Rules:
+
+Article 50: Fixed shares for spouses, children, parents.
+
+Article 55: Testamentary freedom limited by legal shares.
+
+Title: Adoption Law
+Category: Family-Law
+Description: Legal process for adopting minors.
+Examples / Use Cases:
+
+Adopting a child from a legal orphanage.
+
+Rights and obligations of adoptive parents.
+Key Articles / Rules:
+
+Article 60: Adoption requires court approval.
+
+Article 65: Adopted children have inheritance rights.
+
+Title: Domestic Violence Protection
+Category: Family-Law
+Description: Legal measures to protect family members from abuse.
+Examples / Use Cases:
+
+Filing protection orders.
+
+Criminal penalties for abuse.
+Key Articles / Rules:
+
+Article 70: Courts can issue restraining orders.
+
+Article 72: Abusers may face imprisonment.
+
+Title: Guardianship Law
+Category: Family-Law
+Description: Legal guardianship for minors and incapacitated adults.
+Examples / Use Cases:
+
+Guardianship for elderly family members.
+
+Decision-making for minor’s medical care.
+Key Articles / Rules:
+
+Article 75: Guardian must act in the best interest of the ward.
