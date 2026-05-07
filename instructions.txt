@@ -1,0 +1,11 @@
+install python 3.11
+
+open cmd in the folder and run these commands:
+
+py -m pip install customtkinter
+
+py -3.11 -m pip install customtkinter speechrecognition gtts pygame pyaudio
+
+py -3.11 -m pip install googletrans==4.0.0-rc1
+
+py -3.11 app.py "This will open GUI"
